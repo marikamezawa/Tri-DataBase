@@ -13,7 +13,7 @@
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/souzajv/">João Victor de Souza</a>
-- <a href="[https://www.linkedin.com/in/victorbarq/](https://www.linkedin.com/in/eduardo-f-libutti-salles-599299263/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">Eduardo Faris Libutti Salles</a>
+- <a href="https://www.linkedin.com/in/eduardo-f-libutti-salles-599299263/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Eduardo Faris Libutti Salles</a>
 - <a href="https://www.linkedin.com/in/lucas-paiva-brasil-335624233/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Lucas Paiva Brasil</a>  
 - <a href="https://www.linkedin.com/in/lucas-tort-783273270/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Lucas Cozzolino Tort</a>
 - <a href="https://www.linkedin.com/in/mariella-kamezawa-71b066221/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Mariella Sayumi Mercado Kamezawa</a>

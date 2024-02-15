@@ -9,7 +9,7 @@
 # Academy World
 
 ## Tri-DataBase
-<img src="assets/tri database.png" alt="Tri-DataBase Logo" border="0" width=40% height=40%>
+<img src="assets/tri database (sem fundo).png" alt="Tri-DataBase Logo" border="0" width=40% height=40%>
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/souzajv/">João Victor de Souza</a>
